@@ -7,13 +7,13 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
-  background: linear-gradient(to bottom, #fff4e2, #e0f7fa);
-  color: #464444;
+  background: linear-gradient(to bottom, #fff4e2, #d6f1f5);
+  color: #141414;
   padding: 20px;
 }
 
 header {
-  background-color: #cc671f;
+  background-color: #388ae7;
   text-align: center;
   padding: 40px 20px;
   border-radius: 12px;
@@ -22,7 +22,7 @@ header {
 
 header h1, header p {
   font-family: 'Quicksand', sans-serif;
-  color: #fff2e4;
+  color: #151616;
 }
 
 header h1 {
@@ -37,14 +37,14 @@ header p {
 .intro, .galeria, .curiosidades {
   margin: 40px 0;
   padding: 20px;
-  background-color: #ffffffcc;
+  background-color: #f8f8f8cc;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
 .intro h2, .galeria h2, .curiosidades h2 {
   font-size: 1.8em;
-  color: #2e7d32;
+  color: #030000;
   margin-bottom: 10px;
 }
 
@@ -56,7 +56,7 @@ header p {
 }
 
 .item {
-  background-color: #f0f4c3;
+  background-color: #f1e2e2;
   padding: 10px;
   border-radius: 8px;
   text-align: center;
@@ -93,7 +93,7 @@ footer {
 
 .rodape-centralizado {
   position: relative;
-  background: #cc671f;
+  background: #0940d8;
   color: white;
   text-align: center;
   padding: 20px 40px;
